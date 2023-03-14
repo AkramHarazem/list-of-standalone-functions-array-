@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1678800488 source:d:\iti 3 months\day 1\day 5 first task list of functions\main.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
